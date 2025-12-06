@@ -1,5 +1,5 @@
-# AI-finding-short-route-to-goal-in-a-maze
-In progress
+# AI-finding-short-route-to-goal-in-a-maze(In progress)
+
 
 import sys
 
